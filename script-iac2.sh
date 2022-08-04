@@ -9,6 +9,7 @@ apt-get install git -y
 
 echo "Entrando na pasta html do servidor Apache..."
 cd /var/www/html/
+rm -r -f *
 
 echo "Clonado repositorio do GitHub..."
 git clone https://github.com/denilsonbonatti/linux-site-dio.git
