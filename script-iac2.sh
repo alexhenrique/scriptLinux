@@ -5,9 +5,9 @@ apt-get upgrade - y
 
 echo "Instalando programas..."
 apt-get install apache2 -y
-apt-get install unzip - y
-apt-get install wget - y
-apt-get install git - y
+apt-get install unzip -y
+apt-get install wget -y
+apt-get install git -y
 
 echo "Criando pasta tmp..."
 mkdir tmp
