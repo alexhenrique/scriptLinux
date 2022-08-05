@@ -1,4 +1,11 @@
-# Estudo de scripts em Linux
+# Projeto bash Linux
+
+### Para dar permissão de execução
+```sh
+chmod +x iac1.sh 
+chmod +x script-iac2.sh
+```
+## Estudo de scripts em Linux
 
 Neste repositório, coleciono scripts desenvolvidos por mim para estudo e realização de tarefas no linux
 
